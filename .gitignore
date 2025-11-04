@@ -1,0 +1,15 @@
+# Virtual environment
+venv_tf/
+
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data (opsional, kalau file-nya besar)
+Data/*.csv
